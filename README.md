@@ -115,12 +115,3 @@ mysql -u root -p
 net start MySQL95
 net stop MySQL95
 sc query MySQL95
-
-贡献指南
-遵循 PEP 8 代码规范
-
-提交信息使用约定式提交格式
-
-新功能需包含相应的单元测试
-
-文档更新与代码变更同步
